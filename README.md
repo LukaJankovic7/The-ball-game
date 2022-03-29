@@ -1,5 +1,5 @@
 # The-ball-game
-This game was created as a project for one of my courses during my bachelor studies. Game runs on a PIC18F87K22 microcontroller with an addition of MPU_9DOF accelerometer click board for gyroscopic readings. 
+This game was created as a project for one of my courses during my bachelor studies. Game runs on a PIC18F87K22 microcontroller with an addition of MPU_9DOF accelerometer click board for gyroscope readings. 
 
 The game requires the player to balance the ball and get it across the net without the ball getting stuck, or hitting the wall. The ball bounces 
 from the walls of the starting area simulating realistic behaviour. The player has complete controll over the ball controlling it by tilting the board until the 
